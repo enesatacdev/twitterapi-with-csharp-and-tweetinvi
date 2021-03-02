@@ -1,0 +1,7046 @@
+[
+  {
+    "attachments": null,
+    "author_id": "1363527402295599114",
+    "context_annotations": null,
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:35:20+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366774128838123521",
+    "in_reply_to_user_id": "96430842",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@GoalTurkiye muslera\n-\n-\nnwakaeme\nvisca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1363540501002125312",
+    "context_annotations": null,
+    "conversation_id": "1366774045618929668",
+    "created_at": "2021-03-02T15:35:00+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 19,
+          "start": 3,
+          "username": "avokadoyesilii1"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366774045618929668",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366684670440730626",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @avokadoyesilii1: muslera emekli olduktan sonra nasıl bir çıkmaza gireceğiz acaba",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1354135006218756098",
+    "context_annotations": null,
+    "conversation_id": "1366762947922571264",
+    "created_at": "2021-03-02T15:34:59+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 13,
+          "start": 0,
+          "username": "JorgeDjaniny"
+        },
+        {
+          "end": 27,
+          "start": 14,
+          "username": "ezgithedevil"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366774039310708742",
+    "in_reply_to_user_id": "1328740004504465410",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366773889762811907",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter Web App",
+    "text": "@JorgeDjaniny @ezgithedevil Bunun Ersin - Muslera versiyonunu yapmıştım 400 500 beğeni aldı ama bu kadar küfür yemedim aq 🤣 Trabzonlular gergin",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1265670478171119617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Coach like 'Bill Belichick'",
+          "id": "93",
+          "name": "Coach"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      }
+    ],
+    "conversation_id": "1366741220530266127",
+    "created_at": "2021-03-02T15:34:54+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 14,
+          "start": 0,
+          "username": "M_Karadogan77"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366774018905268228",
+    "in_reply_to_user_id": "1245558896695169029",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366741220530266127",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@M_Karadogan77 METİN OKTAY ❤️💛\nFATİH TERİM ❤️💛\nMUSLERA ❤️💛",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1030895454626701313",
+    "context_annotations": null,
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:34:53+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366774014228770820",
+    "in_reply_to_user_id": "96430842",
+    "lang": "tl",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@GoalTurkiye Muslera\nAtiba\nPelkas\nNwakaeme\nVisca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1240603514096750598",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366773953797234689",
+    "created_at": "2021-03-02T15:34:38+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 17,
+          "start": 3,
+          "username": "GalatasaraySK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/yGlnd",
+          "end": 82,
+          "expanded_url": "http://goo.gl/yGlnd",
+          "start": 63,
+          "url": "http://t.co/KNTFU8p",
+          "unwound_url": "https://www.galatasaray.org/"
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366773953797234689",
+    "in_reply_to_user_id": null,
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "93414390329651200",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @GalatasaraySK: TRANSFER | Fernando Muslera GALATASARAY'DA! http://t.co/KNTFU8p",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3802
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1216606461259931648",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366773891411173376",
+    "created_at": "2021-03-02T15:34:23+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": [
+        {
+          "start": 20,
+          "end": 32,
+          "tag": "Galatasaray"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "start": 3,
+          "username": "nomercytobirds"
+        },
+        {
+          "end": 90,
+          "start": 77,
+          "username": "1_Muslera_25"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366773891411173376",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366741169246515202",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter Web App",
+    "text": "RT @nomercytobirds: #Galatasaray 'ımızın Yaşayan Efsanesi Bay Haksız Rekabet @1_Muslera_25 ..Kısa süreye bu kadar pozisyon sığdırabildim..…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1304084459969540097",
+    "context_annotations": null,
+    "conversation_id": "1366688928330371072",
+    "created_at": "2021-03-02T15:34:21+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 11,
+          "start": 0,
+          "username": "RedReportt"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366773881634230273",
+    "in_reply_to_user_id": "2154378344",
+    "lang": "tl",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366688928330371072",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@RedReportt Donk\nluyindama\nSoso\nMuslera\nArda",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1275687080",
+    "context_annotations": null,
+    "conversation_id": "1366717053751734274",
+    "created_at": "2021-03-02T15:34:18+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 14,
+          "start": 0,
+          "username": "atavratfelipe"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366773869533667333",
+    "in_reply_to_user_id": "1119838263546658816",
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366717053751734274",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@atavratfelipe Hagi Alex muslera 😉",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1340358661298933761",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366773768467718150",
+    "created_at": "2021-03-02T15:33:54+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 17,
+          "start": 3,
+          "username": "GalatasaraySK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/yGlnd",
+          "end": 82,
+          "expanded_url": "http://goo.gl/yGlnd",
+          "start": 63,
+          "url": "http://t.co/KNTFU8p",
+          "unwound_url": "https://www.galatasaray.org/"
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366773768467718150",
+    "in_reply_to_user_id": null,
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "93414390329651200",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter Web App",
+    "text": "RT @GalatasaraySK: TRANSFER | Fernando Muslera GALATASARAY'DA! http://t.co/KNTFU8p",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3802
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "939951328410914816",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366773617938354181",
+    "created_at": "2021-03-02T15:33:18+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 17,
+          "start": 3,
+          "username": "GalatasaraySK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/yGlnd",
+          "end": 82,
+          "expanded_url": "http://goo.gl/yGlnd",
+          "start": 63,
+          "url": "http://t.co/KNTFU8p",
+          "unwound_url": "https://www.galatasaray.org/"
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366773617938354181",
+    "in_reply_to_user_id": null,
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "93414390329651200",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @GalatasaraySK: TRANSFER | Fernando Muslera GALATASARAY'DA! http://t.co/KNTFU8p",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3802
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "2332293025",
+    "context_annotations": null,
+    "conversation_id": "1366767981557133323",
+    "created_at": "2021-03-02T15:33:15+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 11,
+          "start": 0,
+          "username": "crenkartal"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366773605321834504",
+    "in_reply_to_user_id": "1121113378058010625",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366767981557133323",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@crenkartal Son 10 yılda Muslera fenevden daha fazla kupa kaldırdı o zaman\nMuslera&gt;fenev",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1333909664258519041",
+    "context_annotations": null,
+    "conversation_id": "1366773541723643909",
+    "created_at": "2021-03-02T15:33:00+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 15,
+          "start": 3,
+          "username": "Grande_1905"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366773541723643909",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366723495665799170",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @Grande_1905: Brezilya köylüsü Alex'i, Hagi ile kıyaslayan tayfa, Webo'nun Drogba'dan, Altay'ın da Muslera'dan daha iyi kaleci olduğunu…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "961853432628834304",
+    "context_annotations": null,
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:32:47+00:00",
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Muslera",
+          "probability": 0.9874,
+          "start": 13,
+          "type": "Person"
+        },
+        {
+          "end": 27,
+          "normalized_text": "Rosier",
+          "probability": 0.5405,
+          "start": 22,
+          "type": "Person"
+        },
+        {
+          "end": 36,
+          "normalized_text": "Gustavo",
+          "probability": 0.8842,
+          "start": 30,
+          "type": "Person"
+        }
+      ],
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366773486182686722",
+    "in_reply_to_user_id": "96430842",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@GoalTurkiye Muslera. Rosier. Gustavo . Nwakame. Visça",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "754660194857152512",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774013344845824",
+          "name": "Mesut Ozil"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": null,
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774013344845824",
+          "name": "Mesut Ozil"
+        }
+      }
+    ],
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:32:31+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366773421179363328",
+    "in_reply_to_user_id": "96430842",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@GoalTurkiye Muslera Atiba Özil Visca Abucakar",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1297129827150045184",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366773358935871496",
+    "created_at": "2021-03-02T15:32:16+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 17,
+          "start": 3,
+          "username": "GalatasaraySK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/yGlnd",
+          "end": 82,
+          "expanded_url": "http://goo.gl/yGlnd",
+          "start": 63,
+          "url": "http://t.co/KNTFU8p",
+          "unwound_url": "https://www.galatasaray.org/"
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366773358935871496",
+    "in_reply_to_user_id": null,
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "93414390329651200",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "RT @GalatasaraySK: TRANSFER | Fernando Muslera GALATASARAY'DA! http://t.co/KNTFU8p",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3802
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1297981071833722880",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Coach like 'Bill Belichick'",
+          "id": "93",
+          "name": "Coach"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      }
+    ],
+    "conversation_id": "1366773234868359170",
+    "created_at": "2021-03-02T15:31:47+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 18,
+          "start": 3,
+          "username": "inandkbzszlere"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366773234868359170",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366715918613696514",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "RT @inandkbzszlere: Fatih Terim, Muslera, Younes Belhanda, Feghouli ve Donk ile yeni sözleşme imzalanmasını talep etti. (Sözcü)",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "4654599502",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366773232829927427",
+    "created_at": "2021-03-02T15:31:46+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 17,
+          "start": 3,
+          "username": "GalatasaraySK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/yGlnd",
+          "end": 82,
+          "expanded_url": "http://goo.gl/yGlnd",
+          "start": 63,
+          "url": "http://t.co/KNTFU8p",
+          "unwound_url": "https://www.galatasaray.org/"
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366773232829927427",
+    "in_reply_to_user_id": null,
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "93414390329651200",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @GalatasaraySK: TRANSFER | Fernando Muslera GALATASARAY'DA! http://t.co/KNTFU8p",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3802
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1145801686700744704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226169236852736",
+          "name": "Trabzonspor"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226186685112320",
+          "name": "Fenerbahçe SK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226221703356416",
+          "name": "Besiktas J.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "1357412483284103168",
+          "name": "Fenerbahçe S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      }
+    ],
+    "conversation_id": "1366773216044331010",
+    "created_at": "2021-03-02T15:31:42+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": null,
+      "urls": [
+        {
+          "display_url": "twitter.com/megfootball/st…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/megfootball/status/1366760863986810881",
+          "start": 45,
+          "url": "https://t.co/OpwfYGYcQT",
+          "unwound_url": null
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366773216044331010",
+    "in_reply_to_user_id": null,
+    "lang": "und",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366760863986810881",
+        "type": "quoted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "Muslera\nAboubakar\nYaşar kemal\nNwakaeme\nVisca https://t.co/OpwfYGYcQT",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "2939781713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Coach like 'Bill Belichick'",
+          "id": "93",
+          "name": "Coach"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      }
+    ],
+    "conversation_id": "1366773211040534533",
+    "created_at": "2021-03-02T15:31:41+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 18,
+          "start": 3,
+          "username": "inandkbzszlere"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366773211040534533",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366715918613696514",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "RT @inandkbzszlere: Fatih Terim, Muslera, Younes Belhanda, Feghouli ve Donk ile yeni sözleşme imzalanmasını talep etti. (Sözcü)",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "2845899244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Coach like 'Bill Belichick'",
+          "id": "93",
+          "name": "Coach"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      }
+    ],
+    "conversation_id": "1366773186713571334",
+    "created_at": "2021-03-02T15:31:35+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 18,
+          "start": 3,
+          "username": "inandkbzszlere"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366773186713571334",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366715918613696514",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "RT @inandkbzszlere: Fatih Terim, Muslera, Younes Belhanda, Feghouli ve Donk ile yeni sözleşme imzalanmasını talep etti. (Sözcü)",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1164287552972570625",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366773182242426882",
+    "created_at": "2021-03-02T15:31:34+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 17,
+          "start": 3,
+          "username": "GalatasaraySK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/yGlnd",
+          "end": 82,
+          "expanded_url": "http://goo.gl/yGlnd",
+          "start": 63,
+          "url": "http://t.co/KNTFU8p",
+          "unwound_url": "https://www.galatasaray.org/"
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366773182242426882",
+    "in_reply_to_user_id": null,
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "93414390329651200",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter Web App",
+    "text": "RT @GalatasaraySK: TRANSFER | Fernando Muslera GALATASARAY'DA! http://t.co/KNTFU8p",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3802
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "2507999722",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Coach like 'Bill Belichick'",
+          "id": "93",
+          "name": "Coach"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      }
+    ],
+    "conversation_id": "1366773158280323075",
+    "created_at": "2021-03-02T15:31:29+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 18,
+          "start": 3,
+          "username": "inandkbzszlere"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366773158280323075",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366715918613696514",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "RT @inandkbzszlere: Fatih Terim, Muslera, Younes Belhanda, Feghouli ve Donk ile yeni sözleşme imzalanmasını talep etti. (Sözcü)",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1176949375937011720",
+    "context_annotations": null,
+    "conversation_id": "1366658819821035521",
+    "created_at": "2021-03-02T15:30:39+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 9,
+          "start": 0,
+          "username": "webaslan"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366772951052398598",
+    "in_reply_to_user_id": "274976650",
+    "lang": "eu",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366658819821035521",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@webaslan Muslera,  arda,  donk",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "808830333126930432",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366772925844631555",
+    "created_at": "2021-03-02T15:30:33+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 17,
+          "start": 3,
+          "username": "GalatasaraySK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/yGlnd",
+          "end": 82,
+          "expanded_url": "http://goo.gl/yGlnd",
+          "start": 63,
+          "url": "http://t.co/KNTFU8p",
+          "unwound_url": "https://www.galatasaray.org/"
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366772925844631555",
+    "in_reply_to_user_id": null,
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "93414390329651200",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @GalatasaraySK: TRANSFER | Fernando Muslera GALATASARAY'DA! http://t.co/KNTFU8p",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3802
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1017672954136682496",
+    "context_annotations": null,
+    "conversation_id": "1366658819821035521",
+    "created_at": "2021-03-02T15:30:25+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 9,
+          "start": 0,
+          "username": "webaslan"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366772890360811520",
+    "in_reply_to_user_id": "274976650",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366658819821035521",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@webaslan Arda Muslera Luyindama ve Martin Lines",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1322132627806167041",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366772859125792776",
+    "created_at": "2021-03-02T15:30:17+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 17,
+          "start": 3,
+          "username": "GalatasaraySK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/yGlnd",
+          "end": 82,
+          "expanded_url": "http://goo.gl/yGlnd",
+          "start": 63,
+          "url": "http://t.co/KNTFU8p",
+          "unwound_url": "https://www.galatasaray.org/"
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366772859125792776",
+    "in_reply_to_user_id": null,
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "93414390329651200",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @GalatasaraySK: TRANSFER | Fernando Muslera GALATASARAY'DA! http://t.co/KNTFU8p",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3802
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "850042973102518272",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366772831174934531",
+    "created_at": "2021-03-02T15:30:11+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 17,
+          "start": 3,
+          "username": "GalatasaraySK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/yGlnd",
+          "end": 82,
+          "expanded_url": "http://goo.gl/yGlnd",
+          "start": 63,
+          "url": "http://t.co/KNTFU8p",
+          "unwound_url": "https://www.galatasaray.org/"
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366772831174934531",
+    "in_reply_to_user_id": null,
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "93414390329651200",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @GalatasaraySK: TRANSFER | Fernando Muslera GALATASARAY'DA! http://t.co/KNTFU8p",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3802
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1071868444033855488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366772822652166152",
+    "created_at": "2021-03-02T15:30:08+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 17,
+          "start": 3,
+          "username": "GalatasaraySK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/yGlnd",
+          "end": 82,
+          "expanded_url": "http://goo.gl/yGlnd",
+          "start": 63,
+          "url": "http://t.co/KNTFU8p",
+          "unwound_url": "https://www.galatasaray.org/"
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366772822652166152",
+    "in_reply_to_user_id": null,
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "93414390329651200",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter Web App",
+    "text": "RT @GalatasaraySK: TRANSFER | Fernando Muslera GALATASARAY'DA! http://t.co/KNTFU8p",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3802
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1325848949018808323",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366772766184210435",
+    "created_at": "2021-03-02T15:29:55+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 17,
+          "start": 3,
+          "username": "GalatasaraySK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "goo.gl/yGlnd",
+          "end": 82,
+          "expanded_url": "http://goo.gl/yGlnd",
+          "start": 63,
+          "url": "http://t.co/KNTFU8p",
+          "unwound_url": "https://www.galatasaray.org/"
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366772766184210435",
+    "in_reply_to_user_id": null,
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "93414390329651200",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @GalatasaraySK: TRANSFER | Fernando Muslera GALATASARAY'DA! http://t.co/KNTFU8p",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3802
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1248753585439023104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      }
+    ],
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:29:21+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366772623653429257",
+    "in_reply_to_user_id": "96430842",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@GoalTurkiye Muslera\nAboubakar\nSzalai\nBerat Özdemir\nVisca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1168587623474094081",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366769692866719750",
+    "created_at": "2021-03-02T15:29:08+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 14,
+          "start": 0,
+          "username": "GalatasaraySK"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366772567583973393",
+    "in_reply_to_user_id": "23186079",
+    "lang": "eu",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366769695404290057",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@GalatasaraySK Muslera 🥺🥺🥺🥺🥺🥺🥺🥺",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "932654914051944448",
+    "context_annotations": null,
+    "conversation_id": "1366772476827607042",
+    "created_at": "2021-03-02T15:28:46+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 15,
+          "start": 3,
+          "username": "Grande_1905"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366772476827607042",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366723495665799170",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @Grande_1905: Brezilya köylüsü Alex'i, Hagi ile kıyaslayan tayfa, Webo'nun Drogba'dan, Altay'ın da Muslera'dan daha iyi kaleci olduğunu…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "932654914051944448",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366772426307235843",
+    "created_at": "2021-03-02T15:28:34+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 17,
+          "start": 3,
+          "username": "siyahalpacino"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366772426307235843",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366693527720243208",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @siyahalpacino: Galatasaray forması giyecek futbolcunun doğuştan Galatasaraylı olmasına gerek yok, Muslera gibi, Melo gibi, Elmander gib…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1358807987238932485",
+    "context_annotations": null,
+    "conversation_id": "1366721929726558209",
+    "created_at": "2021-03-02T15:27:55+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 15,
+          "start": 0,
+          "username": "17FeNeRbAhCeLi"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366772262167273474",
+    "in_reply_to_user_id": "1342008638219677696",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366721929726558209",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@17FeNeRbAhCeLi Saçmalamayın hepsi karaktersiz ve ittir buna muslera da dahil",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1033003220430479360",
+    "context_annotations": null,
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:27:44+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366772217619578885",
+    "in_reply_to_user_id": "96430842",
+    "lang": "da",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter Web App",
+    "text": "@GoalTurkiye Muslera\nRosier \nPelkas\nNwakaeme\nVisca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1353023315187789824",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      }
+    ],
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:27:17+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366772102641176582",
+    "in_reply_to_user_id": "96430842",
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@GoalTurkiye Muslera\nAboubakar \nPelkas\nNwakaeme\nVisca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1314910807612895232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Brand Category"
+        },
+        "entity": {
+          "description": null,
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": null,
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      }
+    ],
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:25:18+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366771605909692421",
+    "in_reply_to_user_id": "96430842",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@GoalTurkiye Muslera GS \nMete Kalkavan BJK \nBahattin Şimşek FB \nBakesetas TS \nVisca BAŞAK ✅",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "103120710",
+    "context_annotations": null,
+    "conversation_id": "1366770353540894720",
+    "created_at": "2021-03-02T15:24:55+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 16,
+          "start": 0,
+          "username": "herdaimyoldalar"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366771506341109767",
+    "in_reply_to_user_id": "1335351352139116544",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366771087783174149",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@herdaimyoldalar Muslera yedekten giriyor 10 getirdi o zaten",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1358141395207389184",
+    "context_annotations": null,
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:24:34+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366771418676002818",
+    "in_reply_to_user_id": "96430842",
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@GoalTurkiye Muslera\nSkrtel\nGustavo \nNwakaeme\nAbubakar",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1244012408768811008",
+    "context_annotations": null,
+    "conversation_id": "1366771388959379459",
+    "created_at": "2021-03-02T15:24:27+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 15,
+          "start": 3,
+          "username": "Grande_1905"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366771388959379459",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366723495665799170",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @Grande_1905: Brezilya köylüsü Alex'i, Hagi ile kıyaslayan tayfa, Webo'nun Drogba'dan, Altay'ın da Muslera'dan daha iyi kaleci olduğunu…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "882489981268348929",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366771378159026181",
+    "created_at": "2021-03-02T15:24:24+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": [
+        {
+          "start": 20,
+          "end": 32,
+          "tag": "Galatasaray"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "start": 3,
+          "username": "nomercytobirds"
+        },
+        {
+          "end": 90,
+          "start": 77,
+          "username": "1_Muslera_25"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366771378159026181",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366741169246515202",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "RT @nomercytobirds: #Galatasaray 'ımızın Yaşayan Efsanesi Bay Haksız Rekabet @1_Muslera_25 ..Kısa süreye bu kadar pozisyon sığdırabildim..…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1336363038300049408",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      }
+    ],
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:24:07+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366771306214137856",
+    "in_reply_to_user_id": "96430842",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@GoalTurkiye Muslera\nAboubakar\nGustavo\nNwakame\nVisca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1362136971880054788",
+    "context_annotations": null,
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:24:01+00:00",
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Muslera",
+          "probability": 0.9965,
+          "start": 13,
+          "type": "Person"
+        },
+        {
+          "end": 29,
+          "normalized_text": "Ghezzal",
+          "probability": 0.9812,
+          "start": 23,
+          "type": "Person"
+        },
+        {
+          "end": 39,
+          "normalized_text": "Gustavo",
+          "probability": 0.9704,
+          "start": 33,
+          "type": "Person"
+        },
+        {
+          "end": 50,
+          "normalized_text": "Nwakaeme",
+          "probability": 0.9671,
+          "start": 43,
+          "type": "Person"
+        },
+        {
+          "end": 58,
+          "normalized_text": "Visca",
+          "probability": 0.9259,
+          "start": 54,
+          "type": "Person"
+        }
+      ],
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366771280406601737",
+    "in_reply_to_user_id": "96430842",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter Web App",
+    "text": "@GoalTurkiye Muslera - Ghezzal - Gustavo - Nwakaeme - Visca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1363097617723449347",
+    "context_annotations": null,
+    "conversation_id": "1366770942622511107",
+    "created_at": "2021-03-02T15:23:55+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "CimbomFacts"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366771254766817284",
+    "in_reply_to_user_id": "2274857599",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366770942622511107",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@CimbomFacts helal olsun kaplana ama bir süre kaleye geçemeyecek muslera var",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1344242012325867521",
+    "context_annotations": null,
+    "conversation_id": "1366340197089173504",
+    "created_at": "2021-03-02T15:23:05+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "wesleybero_"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366771047828246530",
+    "in_reply_to_user_id": "948560568662855681",
+    "lang": "eu",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366340197089173504",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@wesleybero_ Muslera",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1194664921683894275",
+    "context_annotations": null,
+    "conversation_id": "1366770946825191424",
+    "created_at": "2021-03-02T15:22:41+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 15,
+          "start": 3,
+          "username": "Grande_1905"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366770946825191424",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366723495665799170",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @Grande_1905: Brezilya köylüsü Alex'i, Hagi ile kıyaslayan tayfa, Webo'nun Drogba'dan, Altay'ın da Muslera'dan daha iyi kaleci olduğunu…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "755304480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Coach like 'Bill Belichick'",
+          "id": "93",
+          "name": "Coach"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      }
+    ],
+    "conversation_id": "1366770914822651908",
+    "created_at": "2021-03-02T15:22:34+00:00",
+    "entities": null,
+    "geo": null,
+    "id": "1366770914822651908",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": null,
+    "source": "Twitter for Android",
+    "text": "Fatih Terim, Muslera, Younes Belhanda, Feghouli ve Donk ile yeni sözleşme imzalanmasını talep etti. (Sözcü)",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 49,
+      "quote_count": 0,
+      "reply_count": 5,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "2435540688",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774610781462528",
+          "name": "Luiz Gustavo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226169236852736",
+          "name": "Trabzonspor"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226186685112320",
+          "name": "Fenerbahçe SK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226221703356416",
+          "name": "Besiktas J.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "1357412483284103168",
+          "name": "Fenerbahçe S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774610781462528",
+          "name": "Luiz Gustavo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      }
+    ],
+    "conversation_id": "1366770905276416001",
+    "created_at": "2021-03-02T15:22:31+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": null,
+      "urls": [
+        {
+          "display_url": "twitter.com/megfootball/st…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/megfootball/status/1366760863986810881",
+          "start": 37,
+          "url": "https://t.co/ArO0wj2Myy",
+          "unwound_url": null
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366770905276416001",
+    "in_reply_to_user_id": null,
+    "lang": "und",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366760863986810881",
+        "type": "quoted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "Muslera\nHugo\nGustavo\nVisca\nAboubakar https://t.co/ArO0wj2Myy",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "900677882",
+    "context_annotations": null,
+    "conversation_id": "1366658819821035521",
+    "created_at": "2021-03-02T15:21:24+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 9,
+          "start": 0,
+          "username": "webaslan"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366770621489807362",
+    "in_reply_to_user_id": "274976650",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366658819821035521",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@webaslan Sadece muslera ve luyindama. Gerisi çöp",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "2502169000",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      }
+    ],
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:21:12+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366770572735246336",
+    "in_reply_to_user_id": "96430842",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@GoalTurkiye Muslera\nAboubakar\nGustavo\nNwakame\nVisca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "524541594",
+    "context_annotations": null,
+    "conversation_id": "1366756978693931016",
+    "created_at": "2021-03-02T15:20:57+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 8,
+          "start": 0,
+          "username": "ntvspor"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366770511020253190",
+    "in_reply_to_user_id": "15016249",
+    "lang": "eu",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366756978693931016",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@ntvspor Muslera",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "103229302",
+    "context_annotations": null,
+    "conversation_id": "1366770493693583364",
+    "created_at": "2021-03-02T15:20:53+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 15,
+          "start": 3,
+          "username": "Grande_1905"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366770493693583364",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366723495665799170",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @Grande_1905: Brezilya köylüsü Alex'i, Hagi ile kıyaslayan tayfa, Webo'nun Drogba'dan, Altay'ın da Muslera'dan daha iyi kaleci olduğunu…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1675714332",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226186685112320",
+          "name": "Fenerbahçe SK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226221703356416",
+          "name": "Besiktas J.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "1357412483284103168",
+          "name": "Fenerbahçe S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Food",
+          "id": "824777229892661248",
+          "name": "Generic Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      }
+    ],
+    "conversation_id": "1366421954761261060",
+    "created_at": "2021-03-02T15:19:55+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 9,
+          "start": 0,
+          "username": "uefasamp"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366770247521419264",
+    "in_reply_to_user_id": "959359947954884609",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366421954761261060",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@uefasamp Muslera'nın 9 yıllık Galatasaray kariyerinde 39 maç oynadığı Şampiyonlar Ligin'de, 28 yılda Fenerbahçe 40, Beşiktaş ise 44 kez maça çıkmış. Buna rağmen kuş beyinliler gelip Muslera'nın yediği gollerle dalga geçiyorlar.",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1139611881465929729",
+    "context_annotations": null,
+    "conversation_id": "1366770226336059392",
+    "created_at": "2021-03-02T15:19:49+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 15,
+          "start": 3,
+          "username": "kaptanfabio"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366770226336059392",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366483725643612165",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @kaptanfabio: şampiyonluk yolunda final maçlarımıza çıkıyoruz. 14 final maçımız var. bu tarz maçlarda en önemli iki şey. kolay gol yemey…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1355972565492236295",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      }
+    ],
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:19:31+00:00",
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "Muslera Aboubakar",
+          "probability": 0.4549,
+          "start": 13,
+          "type": "Person"
+        },
+        {
+          "end": 37,
+          "normalized_text": "Gustavo",
+          "probability": 0.5689,
+          "start": 31,
+          "type": "Person"
+        },
+        {
+          "end": 48,
+          "normalized_text": "Vitor Hugo",
+          "probability": 0.6469,
+          "start": 39,
+          "type": "Person"
+        }
+      ],
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366770149127311363",
+    "in_reply_to_user_id": "96430842",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@GoalTurkiye Muslera\nAboubakar\nGustavo\nVitor Hugo\nVisca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "218677797",
+    "context_annotations": null,
+    "conversation_id": "1366756978693931016",
+    "created_at": "2021-03-02T15:18:32+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 8,
+          "start": 0,
+          "username": "ntvspor"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769901197737986",
+    "in_reply_to_user_id": "15016249",
+    "lang": "eu",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366756978693931016",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@ntvspor Muslera",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1354740510947237894",
+    "context_annotations": null,
+    "conversation_id": "1366721929726558209",
+    "created_at": "2021-03-02T15:18:30+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 15,
+          "start": 0,
+          "username": "17FeNeRbAhCeLi"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769891571888128",
+    "in_reply_to_user_id": "1342008638219677696",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366721929726558209",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@17FeNeRbAhCeLi Muslera net",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1363755866600669185",
+    "context_annotations": null,
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:18:12+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769817915699206",
+    "in_reply_to_user_id": "96430842",
+    "lang": "tl",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@GoalTurkiye Muslera Atiba Pelkas  Nwakaeme Visca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1496304379",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226186685112320",
+          "name": "Fenerbahçe SK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "1357412483284103168",
+          "name": "Fenerbahçe S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366769801973149700",
+    "created_at": "2021-03-02T15:18:08+00:00",
+    "entities": null,
+    "geo": null,
+    "id": "1366769801973149700",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": null,
+    "source": "Twitter for iPhone",
+    "text": "Türkiye ye gelmiş geçmiş en iyi yabancı futbolcu Fernando Muslera dır. Türkiye’ye gelen en kariyerli futbolcu da Hagi dir fenerbahçe artık bunları kabul etmeli. Türkiyedir Galatasaray",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "192129065",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      }
+    ],
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:17:30+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769639401873408",
+    "in_reply_to_user_id": "96430842",
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@GoalTurkiye Muslera aboubakar pelkas bakasetas visca 🦅🦅🦅",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "608306563",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      }
+    ],
+    "conversation_id": "1366766657679540226",
+    "created_at": "2021-03-02T15:17:17+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 8,
+          "start": 0,
+          "username": "AslnanG"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769586163625987",
+    "in_reply_to_user_id": "1073153792890286080",
+    "lang": "hu",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366766657679540226",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@AslnanG Muslera Ömer Marcao Donk Yedlin Taylan Gedson Arda Onyekuru Feghouli Mostafa",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1149775067024412673",
+    "context_annotations": null,
+    "conversation_id": "1366769585362530312",
+    "created_at": "2021-03-02T15:17:17+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 16,
+          "start": 3,
+          "username": "forzaaslan07"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769585362530312",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366724533194006533",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @forzaaslan07: Mustafa Muhammed:''Transfer haberlerine kulağımı kapattım ilk hedefim burada Galatasarayı şampiyon yapmak ve burada yılla…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1177941886776025088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226186685112320",
+          "name": "Fenerbahçe SK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "1357412483284103168",
+          "name": "Fenerbahçe S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "description": null,
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Brand Category"
+        },
+        "entity": {
+          "description": null,
+          "id": "781974597491040257",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "FIFA.com",
+          "id": "10050757865",
+          "name": "FIFA.com"
+        }
+      }
+    ],
+    "conversation_id": "1366704963804672005",
+    "created_at": "2021-03-02T15:17:06+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 9,
+          "start": 0,
+          "username": "Legatus_"
+        },
+        {
+          "end": 21,
+          "start": 10,
+          "username": "thepelkass"
+        },
+        {
+          "end": 36,
+          "start": 22,
+          "username": "atavratfelipe"
+        },
+        {
+          "end": 45,
+          "start": 37,
+          "username": "FIFAcom"
+        },
+        {
+          "end": 60,
+          "start": 46,
+          "username": "GalatasaraySK"
+        },
+        {
+          "end": 73,
+          "start": 61,
+          "username": "Galatasaray"
+        },
+        {
+          "end": 81,
+          "start": 74,
+          "username": "Alex10"
+        },
+        {
+          "end": 93,
+          "start": 82,
+          "username": "Fenerbahce"
+        },
+        {
+          "end": 108,
+          "start": 94,
+          "username": "Fenerbahce_EN"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769539791409154",
+    "in_reply_to_user_id": "261632937",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366768640599732225",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@Legatus_ @thepelkass @atavratfelipe @FIFAcom @GalatasaraySK @Galatasaray @Alex10 @Fenerbahce @Fenerbahce_EN Karaktere girersek yalnız tartışması yapılması bile saçma olur yalnız alexten karakterli çok az topçu gelmiştir türkiye ye hagi gibi kendi taraftarına hırsız diyen biriyle kıyas yapılamaz yapacaksan muslera gibi karakterli biriyle yaparsın",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "3_1366769492102160388"
+      ],
+      "poll_ids": null
+    },
+    "author_id": "1356578302228652034",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      }
+    ],
+    "conversation_id": "1366769496099282946",
+    "created_at": "2021-03-02T15:16:55+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": null,
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/SkDFbgroIG",
+          "end": 133,
+          "expanded_url": "https://twitter.com/Forzatayfaa/status/1366769496099282946/photo/1",
+          "start": 110,
+          "url": "https://t.co/SkDFbgroIG",
+          "unwound_url": null
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366769496099282946",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": null,
+    "source": "Twitter for Android",
+    "text": "🗣️Fatih Terim, Muslera, Younes Belhanda, Feghouli ve Donk ile yeni sözleşme imzalanmasını talep etti. (Sözcü) https://t.co/SkDFbgroIG",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "3319608861",
+    "context_annotations": null,
+    "conversation_id": "1366768039656628224",
+    "created_at": "2021-03-02T15:16:54+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 14,
+          "start": 0,
+          "username": "Ramazan286134"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769491342995463",
+    "in_reply_to_user_id": "937447945439465477",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366768039656628224",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@Ramazan286134 Uğurcan Muslera büyük kaleci Altay iyi kaleci ersin iyi kaleci olabilir yolu var...",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1358642313090768896",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      }
+    ],
+    "conversation_id": "1366760863986810881",
+    "created_at": "2021-03-02T15:16:26+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "megfootball"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769373743087623",
+    "in_reply_to_user_id": "1104745490577543169",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366760863986810881",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@megfootball Muslera\nAboubakar \nGustavo\nVitorHugo\nVisca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "886235987319418881",
+    "context_annotations": null,
+    "conversation_id": "1366769025179648006",
+    "created_at": "2021-03-02T15:16:14+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 16,
+          "start": 0,
+          "username": "Ankaralialkolik"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769322782298120",
+    "in_reply_to_user_id": "1247792200156450820",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366769025179648006",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@Ankaralialkolik Muslera'nın üzerine vurulan şutlar",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "3436016547",
+    "context_annotations": null,
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:16:04+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": {
+      "coordinates": null,
+      "place_id": "5e02a0f0d91c76d2"
+    },
+    "id": "1366769282546364418",
+    "in_reply_to_user_id": "96430842",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@GoalTurkiye Muslera\nAbuş\nGustavo\nSie aq\nVisca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": {
+      "media_keys": [
+        "3_1365776549652410373",
+        "3_1365776555960639491"
+      ],
+      "poll_ids": null
+    },
+    "author_id": "2507999722",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366769273524416522",
+    "created_at": "2021-03-02T15:16:02+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 3,
+          "username": "evrengoz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/NKvKee8NoM",
+          "end": 107,
+          "expanded_url": "https://twitter.com/evrengoz/status/1365776558884069376/photo/1",
+          "start": 84,
+          "url": "https://t.co/NKvKee8NoM",
+          "unwound_url": null
+        },
+        {
+          "display_url": "pic.twitter.com/NKvKee8NoM",
+          "end": 107,
+          "expanded_url": "https://twitter.com/evrengoz/status/1365776558884069376/photo/1",
+          "start": 84,
+          "url": "https://t.co/NKvKee8NoM",
+          "unwound_url": null
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366769273524416522",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1365776558884069376",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "RT @evrengoz: Fernando Muslera'nın hikayesi böyle başlamıştı; böyle devam ediyor... https://t.co/NKvKee8NoM",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 505
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "395334660",
+    "context_annotations": null,
+    "conversation_id": "1366768077367607299",
+    "created_at": "2021-03-02T15:15:41+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 8,
+          "start": 0,
+          "username": "T24spor"
+        },
+        {
+          "end": 18,
+          "start": 9,
+          "username": "t24comtr"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769185569783813",
+    "in_reply_to_user_id": "2382228438",
+    "lang": "eu",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366768077367607299",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter Web App",
+    "text": "@T24spor @t24comtr muslera",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1149775067024412673",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366769175180509185",
+    "created_at": "2021-03-02T15:15:39+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": [
+        {
+          "start": 20,
+          "end": 32,
+          "tag": "Galatasaray"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "start": 3,
+          "username": "nomercytobirds"
+        },
+        {
+          "end": 90,
+          "start": 77,
+          "username": "1_Muslera_25"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769175180509185",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366741169246515202",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @nomercytobirds: #Galatasaray 'ımızın Yaşayan Efsanesi Bay Haksız Rekabet @1_Muslera_25 ..Kısa süreye bu kadar pozisyon sığdırabildim..…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1230141540565164032",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774109004324869",
+          "name": "Jan Oblak"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774336683696128",
+          "name": "Mike Maignan"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774109004324869",
+          "name": "Jan Oblak"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774336683696128",
+          "name": "Mike Maignan"
+        }
+      }
+    ],
+    "conversation_id": "1366769057362563074",
+    "created_at": "2021-03-02T15:15:11+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 15,
+          "start": 3,
+          "username": "CimbomFacts"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769057362563074",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1364926873302630402",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "RT @CimbomFacts: Avrupada ki lider takımların kaleci kurtarış yüzdeleri 👇\n\n1️⃣ Muslera - % 91\n2️⃣ Jan Oblak - % 82\n3️⃣ Mike Maignan - % 78…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "846093448742612992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366769045186506759",
+    "created_at": "2021-03-02T15:15:08+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": [
+        {
+          "start": 20,
+          "end": 32,
+          "tag": "Galatasaray"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "start": 3,
+          "username": "nomercytobirds"
+        },
+        {
+          "end": 90,
+          "start": 77,
+          "username": "1_Muslera_25"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366769045186506759",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366741169246515202",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @nomercytobirds: #Galatasaray 'ımızın Yaşayan Efsanesi Bay Haksız Rekabet @1_Muslera_25 ..Kısa süreye bu kadar pozisyon sığdırabildim..…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1301412215245991939",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774283143417856",
+          "name": "Josef de Souza Dias"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226169236852736",
+          "name": "Trabzonspor"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226186685112320",
+          "name": "Fenerbahçe SK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226221703356416",
+          "name": "Besiktas J.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "1357412483284103168",
+          "name": "Fenerbahçe S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774283143417856",
+          "name": "Josef de Souza Dias"
+        }
+      }
+    ],
+    "conversation_id": "1366769025448034309",
+    "created_at": "2021-03-02T15:15:03+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": null,
+      "urls": [
+        {
+          "display_url": "twitter.com/megfootball/st…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/megfootball/status/1366760863986810881",
+          "start": 36,
+          "url": "https://t.co/1sAmD3jRTk",
+          "unwound_url": null
+        }
+      ]
+    },
+    "geo": null,
+    "id": "1366769025448034309",
+    "in_reply_to_user_id": null,
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366760863986810881",
+        "type": "quoted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "Muslera\nSzalai\nJosef\nVisca\nNwakaeme https://t.co/1sAmD3jRTk",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1152556507285864448",
+    "context_annotations": null,
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:14:48+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768962772619270",
+    "in_reply_to_user_id": "96430842",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@GoalTurkiye Muslera\nAbuş\nPelkas\nNwakaeme\nVisca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1350730139508813825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774661524152320",
+          "name": "Anthony Nnaduzor Nwakaeme"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774661524152320",
+          "name": "Anthony Nnaduzor Nwakaeme"
+        }
+      }
+    ],
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:14:47+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768955642290179",
+    "in_reply_to_user_id": "96430842",
+    "lang": "tl",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@GoalTurkiye Muslera\nVida\nE.Visca\nPelkas\nAnthony Nwakaeme",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1176936407060963328",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": null,
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": null,
+          "id": "733756526075121664",
+          "name": "Super Lig"
+        }
+      }
+    ],
+    "conversation_id": "1366767768729767936",
+    "created_at": "2021-03-02T15:14:33+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 16,
+          "start": 0,
+          "username": "yerebakanabidin"
+        },
+        {
+          "end": 28,
+          "start": 17,
+          "username": "EnSuperLig"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768896963993609",
+    "in_reply_to_user_id": "3315086356",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366767983465549825",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@yerebakanabidin @EnSuperLig Muslera&gt;hepsi zaten",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1358154840535359491",
+    "context_annotations": null,
+    "conversation_id": "1366768604964917255",
+    "created_at": "2021-03-02T15:14:20+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 14,
+          "start": 0,
+          "username": "imparatorjose"
+        },
+        {
+          "end": 29,
+          "start": 15,
+          "username": "demarkesports"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768843767578624",
+    "in_reply_to_user_id": "1366132720448000005",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366768712871772161",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@imparatorjose @demarkesports Gsde tek adam muslera. Takım full sicili bozuk hoca ve oyuncularla dolu",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1355879742218657792",
+    "context_annotations": null,
+    "conversation_id": "1366768742324187140",
+    "created_at": "2021-03-02T15:13:56+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 15,
+          "start": 3,
+          "username": "Grande_1905"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768742324187140",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366723495665799170",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @Grande_1905: Brezilya köylüsü Alex'i, Hagi ile kıyaslayan tayfa, Webo'nun Drogba'dan, Altay'ın da Muslera'dan daha iyi kaleci olduğunu…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1361410656105340929",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": null,
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": null,
+          "id": "733756526075121664",
+          "name": "Super Lig"
+        }
+      }
+    ],
+    "conversation_id": "1366767768729767936",
+    "created_at": "2021-03-02T15:13:52+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 11,
+          "start": 0,
+          "username": "EnSuperLig"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768725295325191",
+    "in_reply_to_user_id": "3320993193",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366767768729767936",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@EnSuperLig Muslera ülkenin en iyi kalecisi abi geçin onu.! Doğruya doğru..  Allah o bizim luganonun belasını vermesin getirdi Muslera yı bela etti ama seviyorum Muslera yı be.. Çok efendi harika birisi",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 8,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1306258157287755777",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": null,
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": null,
+          "id": "733756526075121664",
+          "name": "Super Lig"
+        }
+      }
+    ],
+    "conversation_id": "1366767768729767936",
+    "created_at": "2021-03-02T15:13:47+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 11,
+          "start": 0,
+          "username": "EnSuperLig"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768704466411523",
+    "in_reply_to_user_id": "3320993193",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366767768729767936",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter Web App",
+    "text": "@EnSuperLig Avrupanın sayılı kalecilerinden uğurcan ve muslera ..",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1250380499475988481",
+    "context_annotations": null,
+    "conversation_id": "1366760863986810881",
+    "created_at": "2021-03-02T15:13:29+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "megfootball"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768630998917126",
+    "in_reply_to_user_id": "1104745490577543169",
+    "lang": "tl",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366760863986810881",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@megfootball Muslera\nHugo\nPelkas\nVisca\nNwakaeme",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "914874720364978176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "1156458102872367104",
+          "name": "Arda Turan"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "1156458102872367104",
+          "name": "Arda Turan"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773859535491072",
+          "name": "Arda Turan"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773859535491072",
+          "name": "Arda Turan"
+        }
+      }
+    ],
+    "conversation_id": "1366658819821035521",
+    "created_at": "2021-03-02T15:13:25+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 9,
+          "start": 0,
+          "username": "webaslan"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768611986190339",
+    "in_reply_to_user_id": "274976650",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366658819821035521",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@webaslan Arda turan MuslerA luyindama",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1352211670706360321",
+    "context_annotations": null,
+    "conversation_id": "1366753824325664769",
+    "created_at": "2021-03-02T15:13:11+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 16,
+          "start": 0,
+          "username": "gedsonfurkandes"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768554608107522",
+    "in_reply_to_user_id": "1350886005876916225",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366766831294443526",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@gedsonfurkandes Hiç kusura bakma muslera ve mostafa bende, git başkasını bul hehehshshs",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "2762060992",
+    "context_annotations": null,
+    "conversation_id": "1366767907389251588",
+    "created_at": "2021-03-02T15:13:09+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 11,
+          "start": 0,
+          "username": "CatalokCem"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768548106887171",
+    "in_reply_to_user_id": "1342853792623169537",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366767907389251588",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@CatalokCem Bence doğru kıstas pozisyonlardan bağımsız olarak yaptıkları etki anlamında Alex’in kıyaslanabileceği adam Muslera.Uzun süreli hizmetler + rakip taraftarda oluşan sempati + istikrarlı performans.",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1363459893559234560",
+    "context_annotations": null,
+    "conversation_id": "1366768537361125376",
+    "created_at": "2021-03-02T15:13:07+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 18,
+          "start": 3,
+          "username": "ultrAsDogiBaba"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768537361125376",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366724224698703876",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "RT @ultrAsDogiBaba: Brezilya köylüsü Alex'i, Hagi ile kıyaslayan tayfa, Webo'nun Drogba'dan, Altay'ın da Muslera'dan daha iyi kaleci olduğu…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "3435732107",
+    "context_annotations": null,
+    "conversation_id": "1366768515018088459",
+    "created_at": "2021-03-02T15:13:01+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 16,
+          "start": 3,
+          "username": "forzaaslan07"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768515018088459",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366724533194006533",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter Web App",
+    "text": "RT @forzaaslan07: Mustafa Muhammed:''Transfer haberlerine kulağımı kapattım ilk hedefim burada Galatasarayı şampiyon yapmak ve burada yılla…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1279105146190999553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      }
+    ],
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:12:46+00:00",
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "Muslera Gustavo",
+          "probability": 0.4569,
+          "start": 13,
+          "type": "Person"
+        },
+        {
+          "end": 77,
+          "normalized_text": "Visca Nwakaeme",
+          "probability": 0.4117,
+          "start": 43,
+          "type": "Person"
+        },
+        {
+          "end": 103,
+          "normalized_text": "Aboubakar",
+          "probability": 0.6068,
+          "start": 95,
+          "type": "Person"
+        }
+      ],
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768450111238146",
+    "in_reply_to_user_id": "1279105146190999553",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366768191565926402",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@GoalTurkiye Muslera\n              Gustavo\nVisca                      Nwakaeme\n                Aboubakar",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1357575290327887875",
+    "context_annotations": null,
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:12:13+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768311535599617",
+    "in_reply_to_user_id": "96430842",
+    "lang": "in",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter Web App",
+    "text": "@GoalTurkiye Muslera \nVida\nPelkas\nNwakaeme\nDemba",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "2625791577",
+    "context_annotations": null,
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:12:03+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768270041378816",
+    "in_reply_to_user_id": "96430842",
+    "lang": "da",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@GoalTurkiye Muslera\nVitor Hugo\nGhezzal\nPelkas\nVisca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1279105146190999553",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      }
+    ],
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:11:44+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768191565926402",
+    "in_reply_to_user_id": "96430842",
+    "lang": "et",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@GoalTurkiye 🟡🔴 Muslera\n⚫️⚪️ Aboubakar\n🟡🔵 Gustavo\n🔴🔵 Nvakaeme\n🟠🔵 Visca",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "927998956642107392",
+    "context_annotations": null,
+    "conversation_id": "1366768130136096774",
+    "created_at": "2021-03-02T15:11:30+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 18,
+          "start": 3,
+          "username": "ultrAsDogiBaba"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768130136096774",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366724224698703876",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @ultrAsDogiBaba: Brezilya köylüsü Alex'i, Hagi ile kıyaslayan tayfa, Webo'nun Drogba'dan, Altay'ın da Muslera'dan daha iyi kaleci olduğu…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "3087476361",
+    "context_annotations": null,
+    "conversation_id": "1366727488349552649",
+    "created_at": "2021-03-02T15:11:29+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 9,
+          "start": 0,
+          "username": "royllvip"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768128592654341",
+    "in_reply_to_user_id": "1084097460593668096",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366727488349552649",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@royllvip Ne Giuliano aşırtması ne Janssen gs golü hepsini geç Muslera Volkan farkından verdiğimiz bir şampiyonluk oldu maalesef.",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1011990216603852803",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774159822520320",
+          "name": "Vincent Aboubakar"
+        }
+      }
+    ],
+    "conversation_id": "1366757800349736964",
+    "created_at": "2021-03-02T15:11:28+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 12,
+          "start": 0,
+          "username": "GoalTurkiye"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768124188573703",
+    "in_reply_to_user_id": "96430842",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366757800349736964",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "@GoalTurkiye muslera\ndeniz türüç-pelkas-nwakaeme \naboubakar",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1363880234169348097",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": null,
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226186685112320",
+          "name": "Fenerbahçe SK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "1357412483284103168",
+          "name": "Fenerbahçe S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": null,
+          "id": "733756526075121664",
+          "name": "Super Lig"
+        }
+      }
+    ],
+    "conversation_id": "1366767768729767936",
+    "created_at": "2021-03-02T15:11:18+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 11,
+          "start": 0,
+          "username": "EnSuperLig"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768080160964608",
+    "in_reply_to_user_id": "3320993193",
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366767768729767936",
+        "type": "replied_to"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "@EnSuperLig Altay bu sene kac mac kurtardi en az 7 Fenerbahce 54 puan alma nedenin 30% altaydir \nMuslera zaten bambaska \nAma ersin hangi macta iyidi",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1352207927717851141",
+    "context_annotations": null,
+    "conversation_id": "1366768061374685188",
+    "created_at": "2021-03-02T15:11:13+00:00",
+    "entities": null,
+    "geo": null,
+    "id": "1366768061374685188",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": null,
+    "source": "Twitter for Android",
+    "text": "Serdar Ali Çelikler: \"Altay'ı övüyoruz Muslera'yı övüyoruz ama Ersin de iyi abi.\"\n\nAli Ece: \"Ve Ersin, başka bir yaş grubunun kalecisi.\" (Vole)\n\nSizce ligin en iyi kalecisi kim?👇",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1360960102078046214",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774257453301761",
+          "name": "Ryan Donk"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774219650072576",
+          "name": "Younes Belhanda"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774257453301761",
+          "name": "Ryan Donk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Coach like 'Bill Belichick'",
+          "id": "93",
+          "name": "Coach"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774033016094720",
+          "name": "Fatih Terim"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733773724910915584",
+          "name": "Sofiane Feghouli"
+        }
+      }
+    ],
+    "conversation_id": "1366768050549194753",
+    "created_at": "2021-03-02T15:11:11+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 18,
+          "start": 3,
+          "username": "ParcalaAslanim"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366768050549194753",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366714003993600002",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @ParcalaAslanim: Teknik Direktör Fatih Terim, Fernando Muslera, Younes Belhanda, Sofiane Feghouli ve Ryan Donk ile yeni sözleşme imzalan…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "320395688",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": null,
+          "id": "731226251319369728",
+          "name": "Galatasaray S.K."
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": null,
+          "id": "733774114079444994",
+          "name": "Fernando Muslera"
+        }
+      }
+    ],
+    "conversation_id": "1366767969259446285",
+    "created_at": "2021-03-02T15:10:51+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": [
+        {
+          "start": 20,
+          "end": 32,
+          "tag": "Galatasaray"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "start": 3,
+          "username": "nomercytobirds"
+        },
+        {
+          "end": 90,
+          "start": 77,
+          "username": "1_Muslera_25"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366767969259446285",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366741169246515202",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for iPhone",
+    "text": "RT @nomercytobirds: #Galatasaray 'ımızın Yaşayan Efsanesi Bay Haksız Rekabet @1_Muslera_25 ..Kısa süreye bu kadar pozisyon sığdırabildim..…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    }
+  },
+  {
+    "attachments": null,
+    "author_id": "1073269335618134017",
+    "context_annotations": null,
+    "conversation_id": "1366767857657384963",
+    "created_at": "2021-03-02T15:10:25+00:00",
+    "entities": {
+      "annotations": null,
+      "cashtags": null,
+      "hashtags": null,
+      "mentions": [
+        {
+          "end": 15,
+          "start": 3,
+          "username": "Grande_1905"
+        }
+      ],
+      "urls": null
+    },
+    "geo": null,
+    "id": "1366767857657384963",
+    "in_reply_to_user_id": null,
+    "lang": "tr",
+    "possibly_sensitive": false,
+    "referenced_tweets": [
+      {
+        "id": "1366723495665799170",
+        "type": "retweeted"
+      }
+    ],
+    "source": "Twitter for Android",
+    "text": "RT @Grande_1905: Brezilya köylüsü Alex'i, Hagi ile kıyaslayan tayfa, Webo'nun Drogba'dan, Altay'ın da Muslera'dan daha iyi kaleci olduğunu…",
+    "withheld": null,
+    "non_public_metrics": null,
+    "organic_metrics": null,
+    "promoted_metrics": null,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    }
+  }
+]
